@@ -1,0 +1,22 @@
+{
+    "name": "behavioral/cor",
+    "description": "Simple example for the Chain Of Responsibility design pattern",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed Raafat",
+            "email": "ahmed.raafat1412@gmail.com",
+            "homepage": "https://github.com/AhmedRaafat14/"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Behavioral\\COR\\": "src"
+        }
+    }
+}
